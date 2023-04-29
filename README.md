@@ -1,4 +1,4 @@
-# CRUD con JavaScript Vanila y PHP
+# CRUD con JavaScript Vanilla y PHP
 
 Descripción:
 este es un proyecto que cumple las funciones básicas de un CRUD de 'empleados', creado con JavaScript
